@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
   <key>AD_UNIT_ID_FOR_BANNER_TEST</key>
-  <string>ca-app-pub-3940256099942544/2934735716</string>
+  <string>ADD_STRING</string>
   <key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
-  <string>ca-app-pub-3940256099942544/4411468910</string>
+  <string>ADD_STRING</string>
   <key>CLIENT_ID</key>
-  <string>93434758959-ojvcs13s70ueofs94i33drldna0h3q49.apps.googleusercontent.com</string>
+  <string>ADD_STRING</string>
   <key>REVERSED_CLIENT_ID</key>
-  <string>com.googleusercontent.apps.93434758959-ojvcs13s70ueofs94i33drldna0h3q49</string>
+  <string>ADD_STRING</string>
   <key>API_KEY</key>
-  <string>AIzaSyCVO6Do-ub-2vrWAxHiaI9aUKOYXqB7rq8</string>
+  <string>ADD_STRING</string>
   <key>GCM_SENDER_ID</key>
-  <string>93434758959</string>
+  <string>ADD_STRING</string>
   <key>PLIST_VERSION</key>
   <string>1</string>
   <key>BUNDLE_ID</key>
@@ -21,7 +21,7 @@
   <key>PROJECT_ID</key>
   <string>astro-stage</string>
   <key>STORAGE_BUCKET</key>
-  <string>astro-stage.appspot.com</string>
+  <string>ADD_STRING</string>
   <key>IS_ADS_ENABLED</key>
   <true></true>
   <key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
   <key>IS_SIGNIN_ENABLED</key>
   <true></true>
   <key>GOOGLE_APP_ID</key>
-  <string>1:93434758959:ios:21392583a43efb67</string>
+  <string>ADD_STRING</string>
   <key>DATABASE_URL</key>
-  <string>https://astro-stage.firebaseio.com</string>
+  <string>ADD_STRING</string>
 </dict>
 </plist>
